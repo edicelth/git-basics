@@ -1,0 +1,29 @@
+
+body {
+  color: black;
+}
+  p {
+  color: black;
+}
+h1 {
+  font-family: times roman serif;
+}
+h2 {
+  font-family: serif;
+}
+
+h1{
+  color: blue;
+}
+@media screen and (max-width: 480px) {
+  body{
+      background-color:  blue;
+  }
+
+}
+.indent {
+  margin-left: 10px;
+}
+.gap_below{
+  margin-bottom: 25px;
+}
